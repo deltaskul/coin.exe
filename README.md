@@ -1,0 +1,2 @@
+# coin.exe
+coin
